@@ -1,0 +1,2 @@
+KopLak is an innovative app that seeks to revolutionize Indonesia's copra trade, fostering SME empowerment. By directly connecting farmers with buyers and utilizing machine learning to assess copra quality, KopLak aims to eliminate intermediaries, ensure fair prices, and enhance trade transparency. This streamlined approach has the potential to significantly benefit farmers, buyers, and the broader economy.
+
